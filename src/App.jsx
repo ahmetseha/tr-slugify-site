@@ -71,7 +71,7 @@ function App() {
     <div className="min-h-screen bg-white flex flex-col gap-20 pt-28 pb-16">
       {/* HEADER */}
       <header className="w-full flex flex-col items-center justify-center text-center">
-        <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4 text-gray-900">
+        <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-20 text-gray-900">
           En Doğru Türkçe Slugify
           <br />
           <span className="text-gray-800">paketiyle tanışın</span>
@@ -83,7 +83,7 @@ function App() {
           URL'leriniz her zaman temiz ve profesyonel.
         </p>
         <a
-          href="#demo"
+          href="https://github.com/ahmetseha/tr-slugify"
           className="inline-block px-8 py-4 rounded-full bg-gray-900 text-white font-bold text-lg shadow-lg hover:scale-105 transition-transform"
         >
           Hemen Dene
